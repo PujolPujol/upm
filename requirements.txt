@@ -1,0 +1,8 @@
+streamlit
+transformers
+newspaper3k
+trafilatura
+Pillow
+torch
+lxml
+lxml_html_clean
